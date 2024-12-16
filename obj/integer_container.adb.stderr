@@ -1,0 +1,3 @@
+integer_container.adb:3:01: error: spec of this package does not allow a body
+integer_container.adb:5:53: error: "int_Container" is undefined
+integer_container.adb:5:53: error: instantiation abandoned

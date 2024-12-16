@@ -1,0 +1,24 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U integer_container%s	integer_container.ads	35285960 NE OO PK
+
+D integer_container.ads	20241020235112 35285960 integer_container%s
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+G c Z s s [int_containerIP integer_container 6 9 none]
+X 1 integer_container.ads
+1K9*integer_Container 11l5 11e22
+3R9*int_Container 4r34 6c9 9e14
+4P9*int_Node_Point(3R9) 8r23
+7i7*value{integer}
+8p7*next{4P9}
+8p13*previous{4P9}
+

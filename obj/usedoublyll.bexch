@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__usedoublyll.o
+[PROJECT FILES]
+C:\Users\deput\Documents\(Fall 2024) COSC 3319\Lab 2\doublylinkedlistcontainer.gpr
+20241020233638 89e9302e6cf35b38d2b97f116546de1f
+[BOUND OBJECT FILES]
+C:\Users\deput\Documents\(Fall 2024) COSC 3319\Lab 2\obj\integer_container.o
+C:\Users\deput\Documents\(Fall 2024) COSC 3319\Lab 2\obj\usedoublyll.o
+[GENERATED SOURCE FILES]
+b__usedoublyll.ads
+b__usedoublyll.adb
+b__usedoublyll.ali
+[RESULTING OPTIONS]
+-LC:\Users\deput\Documents\(Fall 2024) COSC 3319\Lab 2\obj\
+-LC:\Users\deput\Documents\(Fall 2024) COSC 3319\Lab 2\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
